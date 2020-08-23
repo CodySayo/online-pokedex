@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'PKMN';
+  font-style: normal;
+  font-weight: normal;
+  src: local('PKMN'), url('PKMNRBYGSC.ttf') format('truetype');
+}
+
+body {
+  font-family: 'PKMN';
+  font-size: small;
+}
+
 .App {
   text-align: center;
 }
